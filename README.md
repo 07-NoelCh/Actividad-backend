@@ -129,7 +129,7 @@ npx tsc --noEmit  # chequeo de tipos
 
 Estado final: **36 tests** (Vitest) y **17 escenarios / 82 pasos** (Cucumber), todos en verde.
 
-## Probar con curl y Postman
+##  curl y Postman
 
 ### curl
 
