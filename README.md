@@ -4,16 +4,6 @@
 
 Backend en **TypeScript + Express + SQLite** organizado por capas (punto 7 del material), con un endpoint nuevo desarrollado aplicando la técnica **XP (test primero → código)**.
 
-
-
-## Requisitos y ejecución
-
-```bash
-npm install
-npm start          # servidor en http://localhost:3000
-npm run dev        # igual, con recarga automática
-```
-
 La base se crea sola en el archivo `tareas.db` al iniciar.
 
 ## Estructura del proyecto
